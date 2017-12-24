@@ -105,7 +105,7 @@ write picture to: "test.dng"
 OK
 ```
 
-### Convert raw to def
+### Convert raw to nef
 
 ```
 $ raw2nef 
