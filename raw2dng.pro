@@ -5,3 +5,5 @@ CONFIG -= qt
 
 SUBDIRS = common raw2dng raw2nef \
     diadpix
+
+QMAKE_CXXFLAGS += -Wno-narrowing
